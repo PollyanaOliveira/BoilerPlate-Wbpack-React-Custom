@@ -5,6 +5,10 @@
   "repository": "git@github.com:PollyanaOliveira/ignite.git",
   "author": "PollyanaOliveira <pollyana.oliveir@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
   "dependencies": {
     "-": "^0.0.1",
     "D": "^1.0.0",
