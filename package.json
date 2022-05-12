@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:PollyanaOliveira/ignite.git",
   "author": "PollyanaOliveira <pollyana.oliveir@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
 }
