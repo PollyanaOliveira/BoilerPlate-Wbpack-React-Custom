@@ -4,10 +4,12 @@ const RepositoryItem = (props) => {
   const { repository } = props;
   const { name, description, link } = repository;
   return (
-    <li>
-      <strong>{name ?? "Default"}</strong>
-      <p>{description}</p>
-      <a href={link}>Acessar Repositórios</a>
+    <li className="root">
+      <strong className="name">{name ?? "Default"}</strong>
+      <p className="description">{description}</p>
+      <a href={link} className="repositories">
+        Acessar Repositórios
+      </a>
     </li>
   );
 };

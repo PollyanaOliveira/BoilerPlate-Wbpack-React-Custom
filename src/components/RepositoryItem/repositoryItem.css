@@ -1,0 +1,25 @@
+.root {
+}
+
+.name {
+  text-transform: uppercase;
+  text-align: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+.description {
+  text-align: center;
+  justify-content: center;
+  font-size: 0.8rem;
+}
+
+.repositories {
+  text-align: center;
+  justify-content: center;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+}

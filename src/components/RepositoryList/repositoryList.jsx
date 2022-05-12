@@ -8,13 +8,12 @@ const repository = {
 };
 const RepositoryList = () => {
   return (
-    <section className="root">
-      <h1>Lista de Repositórios</h1>
-
+    <div className="root">
+      <h1 className="title">Lista de Repositórios</h1>
       <ul>
         <RepositoryItem repository={repository} />
       </ul>
-    </section>
+    </div>
   );
 };
 
