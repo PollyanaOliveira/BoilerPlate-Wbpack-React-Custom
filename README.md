@@ -1,9 +1,6 @@
 # BoilerPlate React Custom Webpack
 
-## Webpack config with JavaScipt
 
-## Webpack config with TypeScipt
+<a href="https://github.com/PollyanaOliveira/BoilerPlate-Wbpack-React-Custom/pull/6" target="_blank">Webpack config with JavaScipt</a>
 
-## Babel config
-
-## TS Config
+<a href="https://github.com/PollyanaOliveira/BoilerPlate-Wbpack-React-Custom/pull/3" target="_blank">Webpack config with TypeScipt</a>
